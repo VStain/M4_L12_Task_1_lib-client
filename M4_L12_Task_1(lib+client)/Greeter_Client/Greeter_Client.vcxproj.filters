@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Save\M4_L12_Task_1%28client%29\Greeter_Client.cpp">
+    <ClCompile Include="Greeter_Client.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
